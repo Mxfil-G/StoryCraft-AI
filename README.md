@@ -1,5 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://cdn.discordapp.com/attachments/1456967077410902076/1462049618295783514/image.png?ex=696cc750&is=696b75d0&hm=57c0c503403093d9f722952f0c4960ae64b18fa703fc21e93e9aae0aa81b7918&" />
-</div>
-
-# StoryCraft AI
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StoryCraft AI - Creative Writing Interface</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+        .serif-title {
+            font-family: 'Playfair Display', serif;
+        }
+        </style>
+        
