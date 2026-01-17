@@ -1,0 +1,8 @@
+
+{
+  "name": "StoryCraft AI",
+  "description": "A creative writing companion that transforms your images into immersive stories with AI-driven visual analysis, ghostwriting, and expressive narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
