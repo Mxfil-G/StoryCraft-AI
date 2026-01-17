@@ -6,7 +6,6 @@ A Storybot ai that can make stories using Your images.
 
 A PC or laptop
 Node.Js
-Visual Studio Code
 
 # Usage
 
@@ -26,12 +25,15 @@ Install Dependencies
 ```
 npm install
 ```
-Open Visual Studio Code
+Edit the .env.local(.env.local) 
 
-Install the Rick Astley's Live Server Extension
+```
 
-Go to index.html
 
-Run the Live extension
+Run the App
 
-And now you have it, Here is the guide video
+```
+npm run dev
+```
+
+And now you have it
