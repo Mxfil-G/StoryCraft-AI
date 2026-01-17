@@ -17,4 +17,4 @@
             font-family: 'Playfair Display', serif;
         }
         </style>
-        
+        <!DOCTYPE html>
