@@ -27,9 +27,6 @@ npm install
 ```
 Edit the .env.local(.env.local) 
 
-```
-
-
 Run the App
 
 ```
